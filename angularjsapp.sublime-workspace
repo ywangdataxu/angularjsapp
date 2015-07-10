@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"titleCase",
+				"titleCaseFilter"
+			],
+			[
+				"Cart",
+				"CartController"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"in",
+				"incompleteCount"
+			],
+			[
+				"process",
+				"processedDir"
+			],
+			[
+				"proc",
+				"processedDir"
+			],
+			[
+				"canadi",
+				"canadianDollar"
+			],
+			[
+				"previous",
+				"previousName"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"name",
+				"namesUsed"
+			],
+			[
+				"user",
+				"usersInRoomSummary"
+			],
+			[
+				"usersin",
+				"usersInRoomSummary"
+			],
+			[
+				"users",
+				"usersInRoom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 119.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ywang/git/angularjsapp"
+	],
+	"file_history":
+	[
+		"/Users/ywang/luna_workspace/chatrooms/public/email/index.html",
+		"/Users/ywang/luna_workspace/chatrooms/public/email/inbox.html",
+		"/Users/ywang/luna_workspace/chatrooms/public/email/email.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/email/compose.html",
+		"/Users/ywang/luna_workspace/chatrooms/public/shoppingcart/index.html",
+		"/Users/ywang/luna_workspace/chatrooms/public/shoppingcart/shopping.html",
+		"/Users/ywang/luna_workspace/chatrooms/public/shoppingcart/shopping-module.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/test_jquery.html",
+		"/Users/ywang/luna_workspace/chatrooms/public/todolist/todo.html",
+		"/Users/ywang/luna_workspace/chatrooms/public/todolist/todo.json",
+		"/Users/ywang/luna_workspace/chatrooms/public/css/style.css",
+		"/Users/ywang/luna_workspace/chatrooms/server.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/test_angular.html",
+		"/Users/ywang/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/ywang/luna_workspace/chatrooms/public/todolist/to-do-list.html",
+		"/Users/ywang/luna_workspace/chatrooms/package.json",
+		"/Users/ywang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ywang/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/ywang/luna_workspace/chatrooms/lib/chat_server.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/chat.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/chat_ui.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/currency.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/broadcast.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/watcher.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/test.js",
+		"/Users/ywang/luna_workspace/chatrooms/http_server.js",
+		"/Users/ywang/luna_workspace/chatrooms/to_do_server.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/http_server.js",
+		"/Users/ywang/luna_workspace/chatrooms/public/js/server.js",
+		"/Users/ywang/luna_workspace/loopback/package.json",
+		"/Users/ywang/luna_workspace/loopback/README.md",
+		"/Users/ywang/luna_workspace/loopback/server/config.json",
+		"/Users/ywang/luna_workspace/loopback/server/datasources.json",
+		"/Users/ywang/luna_workspace/loopback/server/middleware.json",
+		"/Users/ywang/luna_workspace/loopback/server/server.js",
+		"/Users/ywang/luna_workspace/loopback/server/model-config.json",
+		"/Users/ywang/luna_workspace/my_node/js/app.js",
+		"/Users/ywang/luna_workspace/my_node/js/client.js",
+		"/Users/ywang/luna_workspace/my_node/js/custom_goodbye.js",
+		"/Users/ywang/luna_workspace/my_node/js/custom_hello.js",
+		"/Users/ywang/luna_workspace/my_node/js/hello.js",
+		"/Users/ywang/luna_workspace/my_node/html/layout.ejs",
+		"/Users/ywang/luna_workspace/my_node/html/say.html",
+		"/Users/ywang/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"\"",
+			"",
+			".jpg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"checkedItems",
+			"angular-1.4.1",
+			"res.",
+			"            ",
+			"redBoarder",
+			"width:16px;height:16px",
+			"jpg\" />",
+			".png",
+			"mainheader",
+			"console",
+			"nickName"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"response.",
+			"width:32px;height:32px",
+			"jpg\" style=\"width:16px;height:16px\" />",
+			".jpg",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angularjsapp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
